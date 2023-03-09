@@ -18,7 +18,7 @@ This is a simple face detection application built using OpenCV, a popular comput
 ```
 git clone https://github.com/aleksandrajk/Python-AI/tree/main/FaceDetectorApp.git
 ```
-3. Install the necessary dependencies by running:
+2. Install the necessary dependencies by running:
 ```
 pip install -r requirements.txt in your terminal
 ```
