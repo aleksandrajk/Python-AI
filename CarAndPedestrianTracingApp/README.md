@@ -1,4 +1,4 @@
-# Face Detector App using OpenCV
+# Car and Pedestrian Tracking App
 
 This is a Python application for detecting and tracking cars and pedestrians in videos using OpenCV. The application uses a pre-trained object detection model from OpenCV.
 
@@ -14,8 +14,7 @@ This is a Python application for detecting and tracking cars and pedestrians in 
 
 
 ## Installation
-To use this application, you will need to have Python 3.6 or higher installed on your system. You will also need to install the following Python package:
-* OpenCV (version 4.2.0 or higher). 
+To use this application, you will need to have Python 3.6 or higher installed on your system. You will also need to install OpenCV (version 4.2.0 or higher). 
 
 You can install this package using pip:
 ```
@@ -24,7 +23,7 @@ pip install opencv-python
 
 
 ## Usage
-1. Open the app by running __'python CarAndPedestrianTracing.py'__.
+1. Open the app by running __'python Car_and_Pedestrian_Tracking.py'__.
 2. Wait for the app to finish processing the file.
 3. The processed file will be displayed on the app window with bounding boxes around the detected cars and pedestrians.
 
