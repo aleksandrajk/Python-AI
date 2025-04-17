@@ -7,6 +7,9 @@ This is a Python application for detecting and tracking cars and pedestrians in 
 * Draws a bounding box around each detected object
 * Can handle multiple objects in the same image or video
 
+**Demo:**
+![London-street](https://github.com/user-attachments/assets/18f93fc3-3466-4cb0-94b9-c6073ede2dd5)
+
 
 ## Technologies Used
 * Python
